@@ -31,6 +31,10 @@
 - composer install
 <br/>
 - npm install
+<br/>
+- php artisan serve
+<br/>
+- npm run dev
 
 
 ## About Laravel
