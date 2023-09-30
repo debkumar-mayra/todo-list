@@ -7,6 +7,32 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Version Details
+-PHP Version: ^8.1 
+<br/>
+-Node Version: ^18.12
+<br/>
+-Laravel 10
+<br/>
+-inertia js: ^0.6.10
+<br/>
+-Vue 3
+<br/>
+-vuetify: ^3.3.19
+<br/>
+-tailwindcss: 3.3.3
+
+
+## How to run the project
+- git clone https://github.com/debkumar-mayra/todo-list.git
+<br/>
+- cd todo-list
+<br/>
+- composer install
+<br/>
+- npm install
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
